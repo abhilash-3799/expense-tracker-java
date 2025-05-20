@@ -1,0 +1,11 @@
+2025-05-20,Income,salary,53000.0
+2025-05-20,Expense,rent,15000.0
+2025-05-01,Income,Salary,45000.0
+2025-05-03,Expense,Food,1200.0
+2025-05-05,Expense,Rent,15000.0
+2025-05-07,Income,Business,8000.0
+2025-05-10,Expense,Travel,3500.0
+2025-05-12,Expense,Food,700.0
+2025-05-15,Income,Salary,46000.0
+2025-05-18,Expense,Travel,1800.0
+2025-05-20,Expense,Food,10000.0
